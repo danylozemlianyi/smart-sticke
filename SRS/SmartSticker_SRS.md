@@ -155,10 +155,9 @@ Real-time Status:
 | REQ-1.9 | App            | Functional     | The application shall display the real-time status of allocated objects, indicating whether they are locked/unlocked or turned on/off. |
 | REQ-1.10 | App            | Functional     | Users shall have the capability to manage their profiles, including updating personal information and changing profile pictures. |
 | REQ-1.11 | App            | Functional     | The application shall use encryption and secure communication protocols to protect user data and communication with the server. |
-| REQ-1.12 | App            | Functional     | The application shall use encryption and secure communication protocols to protect user data and communication with the server. |
-| REQ-1.13 | App            | Functional     | The application shall be compatible with both Android and iOS platforms, adhering to the respective platform design guidelines and standards. |
-| REQ-1.14 | App            | Functional     | Users shall be able to log out securely from the application, with an option to enable automatic logout after a certain period of inactivity. |
-| REQ-1.15 | App            | Functional     | The application shall handle errors gracefully and display user-friendly error messages with guidance on resolving issues. |
+| REQ-1.12 | App            | Functional     | The application shall be compatible with both Android and iOS platforms, adhering to the respective platform design guidelines and standards. |
+| REQ-1.13 | App            | Functional     | Users shall be able to log out securely from the application, with an option to enable automatic logout after a certain period of inactivity. |
+| REQ-1.14 | App            | Functional     | The application shall handle errors gracefully and display user-friendly error messages with guidance on resolving issues. |
 | REQ-2.1 | Server          | Functional     | The server shall store and manage user accounts, including user registration, profile updates, and authentication. |
 | REQ-2.2 | Server          | Functional     | The server shall maintain a database of objects, each with a unique identifier and associated information (e.g., object type, location). |
 | REQ-2.3 | Server          | Functional     | The server shall store and manage user permissions for accessing specific objects. |
@@ -166,11 +165,10 @@ Real-time Status:
 | REQ-2.5 | Server          | Functional     | The server shall track object allocations to individual users in real-time. |
 | REQ-2.6 | Server          | Functional     | Object allocations and deallocations made through the application shall be reflected in the server's database. |
 | REQ-2.7 | Server          | Functional     | User authentication shall be performed securely, and user actions shall be validated against their permissions. |
-| REQ-2.8 | Server          | Functional     | User authentication shall be performed securely, and user actions shall be validated against their permissions. |
-| REQ-2.9 | Server          | Functional     | The server shall provide a communication interface for the mobile application to send and receive data. |
-| REQ-2.10 | Server          | Functional     | Data transmitted between the server and application shall use secure protocols. |
-| REQ-2.11 | Server          | Functional     | The server shall maintain the real-time status of objects, reflecting changes made by users through the application. |
-| REQ-2.12 | Server          | Functional     | The server shall manage user sessions, automatically logging out users after a period of inactivity for security purposes. |
+| REQ-2.8 | Server          | Functional     | The server shall provide a communication interface for the mobile application to send and receive data. |
+| REQ-2.9 | Server          | Functional     | Data transmitted between the server and application shall use secure protocols. |
+| REQ-2.10 | Server          | Functional     | The server shall maintain the real-time status of objects, reflecting changes made by users through the application. |
+| REQ-2.11 | Server          | Functional     | The server shall manage user sessions, automatically logging out users after a period of inactivity for security purposes. |
 
 ### 3.2 Security Requirements
 

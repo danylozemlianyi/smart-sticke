@@ -78,7 +78,7 @@ This section includes fully dressed use cases for controlled access to specific 
 ---
 | ID:                         | UC 05                                                                                                                                                                        |
 |-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Use case:                   | Technical Support and Issue Resolution                                                                                                                                       |
+| Use case:                   | Technical support and issue resolution                                                                                                                                       |
 | Description:                | Users contact technical support to resolve issues and seek assistance related to NFC stickers.                                                                               |
 | Level:                      | Technical support goal                                                                                                                                                       |
 | Primary actor:              | User                                                                                                                                                                         |
@@ -104,7 +104,7 @@ This section includes fully dressed use cases for controlled access to specific 
 ---
 | ID:                         | UC 07                                                                                                                                                                                             |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Use case:                   | Integration with Other Information Systems                                                                                                                                                        |
+| Use case:                   | Integration with other information systems                                                                                                                                                        |
 | Description:                | This use case involves integrating the NFC sticker system with other information systems within the enterprise to enable data exchange and a unified access control system.                       |
 | Level:                      | Integration system goal                                                                                                                                                                           |
 | Primary actor:              | Integration system                                                                                                                                                                                |

@@ -73,9 +73,7 @@ This section includes fully dressed use cases for controlled access to specific 
 | Stakeholders and interests: | Administrators aim to maintain an up-to-date user list in the system.                                                                                    |
 | Pre-conditions:             | The administrator has appropriate permissions.                                                                                                           |
 | Post conditions:            | New users are added, or invalid users are removed from the system.                                                                                       |
-| Main success scenario:      | 1. The administrator adds a new user to the system and issues an NFC sticker. <br> 2. The administrator removes an invalid user account from the system. 
-                                                                                                  
-|
+| Main success scenario:      | 1. The administrator adds a new user to the system and issues an NFC sticker. <br> 2. The administrator removes an invalid user account from the system.
 | Special requirements        | User addition and removal processes should be secure, and user data should be properly managed.                                                          |
 ---
 | ID:                         | UC 05                                                                                                                                                                        |
